@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="142050c8-ba42-4a9d-be78-e4001e58f811" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YHqLRMGlDQ62vzHXjncNbffqA6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/icecream_shopping" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\BHUWAN BHASKAR\PycharmProjects\chattbot1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\BHUWAN BHASKAR\PycharmProjects\chattbot1\static\images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="chattbot1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="appp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="chattbot1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/appp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.appp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="142050c8-ba42-4a9d-be78-e4001e58f811" name="Default Changelist" comment="" />
+      <created>1581865730811</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581865730811</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="409" y="46" key="#app" timestamp="1582610064194">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="46" key="#app/0.0.1366.728@0.0.1366.728" timestamp="1582610064194" />
+    <state x="462" y="120" key="FileChooserDialogImpl" timestamp="1582611052291">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582611052291" />
+    <state width="1344" height="158" key="GridCell.Tab.0.bottom" timestamp="1582618350821">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="158" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582618350821" />
+    <state width="1344" height="158" key="GridCell.Tab.0.center" timestamp="1582618350820">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="158" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582618350820" />
+    <state width="1344" height="158" key="GridCell.Tab.0.left" timestamp="1582618350820">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="158" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582618350820" />
+    <state width="1344" height="158" key="GridCell.Tab.0.right" timestamp="1582618350820">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="158" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582618350820" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1582611272177">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582611272177" />
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1582609901921">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582609901921" />
+  </component>
+</project>
